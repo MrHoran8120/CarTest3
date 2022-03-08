@@ -19,7 +19,7 @@ namespace CarTest3
         }
         public void sayHello()
         {
-            Console.WriteLine("My vin is " + vin);
+            Console.WriteLine("May vin is " + vin);
         }
     }
 
